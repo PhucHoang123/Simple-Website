@@ -49,5 +49,5 @@ project-hub-website/
 This project is open source under the [MIT License](LICENSE).
 
 ## Author
-Created and maintained by **[Your Name]** — feel free to reach out or contribute!
+Created and maintained by Phuc Hoang — feel free to reach out or contribute!
 
